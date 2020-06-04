@@ -5,7 +5,7 @@
 * Developer: Tejendra, Khatri
 * Date: Feb 29, 2020 at 11:00 pm
 * Updated: Feb 29, 2020 at 11:30 pm
-* Compile: gcc ieee754_converter.c -o a.out
+* Compile: gcc ieee754_converter.c -o converter.out
 *
 /**************************************************/
 
